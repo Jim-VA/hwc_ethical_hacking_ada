@@ -1,7 +1,7 @@
 # Ethical Hacking — CEHPC Prep
 
 ## Contexto
-En este repositorio incluyo todas las actividades y entregables que realicé dentro de mi capacitación de Hacking Ético por parte de Hacker Women Council 💗.
+En este repositorio incluyo todas las actividades y entregables que realicé dentro de mi capacitación de Hacking Ético por parte de Hacker Women Council 💖.
 
 ## Objetivo
 Mi meta es aprender los fundamentos de esta área, documentar mis prácticas y compartir lo aprendido durante mi preparación para la *Ethical Hacking Professional Certification*.
